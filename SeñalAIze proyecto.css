@@ -1,0 +1,42 @@
+/*Por elemento*/
+h1{
+    color: rgb(115, 30, 241);font-family: 'Times New Roman', Times, serif;
+     font-size: xx-large;
+     text-align: center;
+}
+
+h2 {
+    text-align: center;
+
+}
+p{
+ font-family: Arial, Helvetica, sans-serif; text-align: center;
+}
+
+img {
+display: block;
+margin: auto;
+}
+
+/*Por Clase/
+.titulo_inicial{
+    font-size: 200%;
+    color: aqua;
+    background-color: aqua;
+    text-align: left;
+}
+
+Por identificador id
+#titulo_inicial{
+    color: rgb(188, 29, 175);
+
+}
+
+body{
+    background-color: blue;
+}
+
+.titulo_inicial{
+    background-color: red;
+}
+*/
